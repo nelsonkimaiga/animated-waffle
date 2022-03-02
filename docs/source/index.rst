@@ -1,4 +1,4 @@
-Welcome to Lumache's documentation!
+Welcome to UbiqPay's documentation!
 ===================================
 
 **UbiqPay API Specification** 
