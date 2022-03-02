@@ -2,12 +2,12 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'UbiqPay'
+copyright = '2022, UbiqPay'
+author = 'UbiqPay'
 
 release = '0.1'
-version = '0.1.0'
+version = '1.2.1'
 
 # -- General configuration
 
