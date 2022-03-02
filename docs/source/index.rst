@@ -31,35 +31,20 @@ Contents
 
 .. toctree::
 
-`1 Overview 1 <#overview>`__
-
-`1.1 API authentication <#api-authentication>`__
-
-`1.2 Transactions reconciliation <#transactions-reconciliation>`__
-
-`2 MobileMoney <#mobilemoney>`__
-
-`2.1 Customer to business (C2B) <#customer-to-business-c2b>`__
-
-`2.1.1 requestC2B <#requestc2b>`__
-
-`2.1.2 confirmC2B <#confirmc2b>`__
-
-`2.1.3 checkStatusC2B <#checkstatusc2b>`__
-
-`2.2 Business to customer <#business-to-customer>`__
-
-`2.2.1 requestB2C <#requestb2c>`__
-
-`2.2.2 confirmB2C <#confirmb2c>`__
-
-`2.2.3 checkStatusB2C <#checkstatusb2c>`__
-
-`3 SMS 14 <#_Toc33046076>`__
-
-`3.1 sendSMS 14 <#_Toc33046077>`__
-
-`3.2 receiveDLR 16 <#_Toc33046078>`__
-
-`3.3 checkStatusSMS 17 <#_Toc33046079>`__
+   Overview
+   API authentication
+   Transactions reconciliation
+   MobileMoney
+   Customer to business (C2B)
+   requestC2B
+   confirmC2B
+   checkStatusC2B
+   Business to customer
+   requestB2C
+   confirmB2C
+   checkStatusB2C
+   SMS
+   sendSMS
+   receiveDLR
+   checkStatusSMS
 
