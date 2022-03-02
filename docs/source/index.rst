@@ -31,4 +31,5 @@ Contents
 
 .. toctree::
 
-   api docs
+  api
+
