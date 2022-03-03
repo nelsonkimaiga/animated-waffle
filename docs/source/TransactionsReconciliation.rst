@@ -1,3 +1,6 @@
+Transactions reconciliation
+---------------------------
+
 Except the before mentioned methods for obtaining the transaction
 outcome statuses (callbacks with retry mechanisms and check status API)
 there is a possibility of configuring partner’s FTP server access. This
