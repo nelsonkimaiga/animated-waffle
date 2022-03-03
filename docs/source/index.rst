@@ -35,7 +35,7 @@ Contents
    API authentication
    TransactionsReconciliation
    MobileMoney
-   Customer to business (C2B)
+   CustomerTobusiness
    requestC2B
    confirmC2B
    checkStatusC2B
