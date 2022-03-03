@@ -33,7 +33,7 @@ Contents
 
    Overview
    API authentication
-   Transactions reconciliation
+   TransactionsReconciliation
    MobileMoney
    Customer to business (C2B)
    requestC2B
